@@ -8,7 +8,7 @@ const Example3 = () => {
         setCount(prev=>prev+1) //3
         setCount(prev=>prev+1) //4
 
-        // setCount(count + 1) increase by 1
+        setCount(count + 1) //increase by 1
 
     }
   return (
