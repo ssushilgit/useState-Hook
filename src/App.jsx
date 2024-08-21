@@ -4,6 +4,7 @@ import Example3 from './useState/Example3';
 import Example4 from './useState/Example4';
 import Example5 from './useState/Example5';
 import CounterExample from './useState/CounterExample';
+import Example7 from './useState/Example7';
 
 function App() {
   return(
@@ -12,7 +13,8 @@ function App() {
     // <Example3/>
     // <Example4/>
     // <Example5/>
-    <CounterExample/>
+    // <CounterExample/>
+    <Example7/>
   )
   
 }
